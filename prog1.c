@@ -1,4 +1,4 @@
 #include<stdio.h>
 {
-printf("hey from master branch");
+printf("commit line 1 in master");
 }
